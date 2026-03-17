@@ -1,0 +1,1 @@
+const fs = require("fs"); const content = fs.readFileSync("c:/Users/Nithish/Downloads/bagfi/src/app/page.tsx", "utf8"); const newContent = content.replace(/, fontSize: .1\.5rem. /g, ""); fs.writeFileSync("c:/Users/Nithish/Downloads/bagfi/src/app/page.tsx", newContent);
