@@ -31,6 +31,8 @@ BagFi is a high-performance, secure, and feature-rich Web3 wallet specifically d
 - npm or yarn
 - Android Studio / Xcode (for mobile development)
 
+<img width="356" height="718" alt="Screenshot 2026-03-16 013800" src="https://github.com/user-attachments/assets/6ffe719a-10da-47dd-b661-aacdaea7e35a" />
+
 ### Installation
 
 1. Clone the repository:
